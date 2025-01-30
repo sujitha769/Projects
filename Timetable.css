@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse; /* Ensures a single border between cells */
+        height: 100%;
+        width: 100%;
+        border-collapse: collapse;
+        background-image: url('colorful-abstract-textured-background-design.jpg'); /* Add your image path here */
+        background-size: cover; /* Ensure the image covers the whole table */
+    
+   
+}
+
+
+.break{
+    text-align: center;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+}
+.color{
+    color: black;
+    font: bold;
+}
